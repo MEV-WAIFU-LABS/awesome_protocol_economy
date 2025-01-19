@@ -99,11 +99,13 @@
 
 <br>
 
-##### inclusion lists
+##### inclusion lists and focil
 
-* **[inclusion list economics](https://efdn.notion.site/Inclusion-list-economics-b0d61d0e21a74963a54448e48d9adc8a)**
-* **[eip-7547 inclusion list, by m. neuder](https://ethereum-magicians.org/t/eip-7547-inclusion-lists/17474)**
 
+* **[eip-7805: fork-choice enforced inclusion lists, by t. thiery et al. (2024)](https://eips.ethereum.org/EIPS/eip-7805)**
+* **[eip-7547: inclusion list, by m. neuder (2023)](https://ethereum-magicians.org/t/eip-7547-inclusion-lists/17474)**
+* **[inclusion list economics, by b. monnot (2022)](https://efdn.notion.site/Inclusion-list-economics-b0d61d0e21a74963a54448e48d9adc8a)**
+  
 <br>
 
 
